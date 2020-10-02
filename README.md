@@ -4,4 +4,4 @@ Hellow world!
 
 My first responstory on Github.
 
-I love :coffee, :pizza, and :dancer:.
+I love :coffee:, :pizza:, and :dancer:.
